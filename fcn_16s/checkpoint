@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/kris/PycharmProjects/eecs545/fcn_16s/fcn16s.ckpt"
+all_model_checkpoint_paths: "/home/kris/PycharmProjects/eecs545/fcn_16s/fcn16s.ckpt"
