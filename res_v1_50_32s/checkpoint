@@ -1,2 +1,0 @@
-model_checkpoint_path: "/home/kris/PycharmProjects/eecs545/res_v1_50_32s/res_v1_50_32s.ckpt"
-all_model_checkpoint_paths: "/home/kris/PycharmProjects/eecs545/res_v1_50_32s/res_v1_50_32s.ckpt"
